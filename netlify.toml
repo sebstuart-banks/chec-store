@@ -6,4 +6,4 @@
   package = "netlify-plugin-onboarding"
 
 [template.environment]
-  CHEC_PUBLIC_KEY = "pk_194312490c5facd27182355cbf57e9dbba2cfb29f87cf"
+  CHEC_PUBLIC_KEY =pk_194312490c5facd27182355cbf57e9dbba2cfb29f87cf
